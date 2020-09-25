@@ -1,0 +1,25 @@
+C:\Users\Cristian Relos\Documents\SharpDevelop Projects\travelrock\travelrock\obj\Debug\travelrock.csprojResolveAssemblyReference.cache
+C:\Users\Cristian Relos\Documents\SharpDevelop Projects\travelrock\travelrock\bin\Debug\travelrock.exe
+C:\Users\Cristian Relos\Documents\SharpDevelop Projects\travelrock\travelrock\bin\Debug\travelrock.pdb
+C:\Users\Cristian Relos\Documents\SharpDevelop Projects\travelrock\travelrock\obj\Debug\travelrock.exe
+C:\Users\Cristian Relos\Documents\SharpDevelop Projects\travelrock\travelrock\obj\Debug\travelrock.pdb
+C:\Users\sebatian\Documents\Universidad Jauretch\algoritmo y programacion\micritos (semi-final)\travelrock\travelrock\obj\Debug\travelrock.csprojResolveAssemblyReference.cache
+C:\Users\sebatian\Documents\Universidad Jauretch\algoritmo y programacion\micritos (semi-final)\travelrock\travelrock\obj\Debug\travelrock.exe
+C:\Users\sebatian\Documents\Universidad Jauretch\algoritmo y programacion\micritos (semi-final)\travelrock\travelrock\bin\Debug\travelrock.exe
+C:\Users\sebatian\Documents\Universidad Jauretch\algoritmo y programacion\micritos (semi-final)\travelrock\travelrock\bin\Debug\travelrock.pdb
+C:\Users\sebatian\Documents\Universidad Jauretch\algoritmo y programacion\micritos (semi-final)\travelrock\travelrock\obj\Debug\travelrock.pdb
+C:\Users\Cristian Relos\Desktop\Nueva carpeta\Nueva carpeta\travelrock\travelrock\bin\Debug\travelrock.exe
+C:\Users\Cristian Relos\Desktop\Nueva carpeta\Nueva carpeta\travelrock\travelrock\bin\Debug\travelrock.pdb
+C:\Users\Cristian Relos\Desktop\Nueva carpeta\Nueva carpeta\travelrock\travelrock\obj\Debug\travelrock.csprojResolveAssemblyReference.cache
+C:\Users\Cristian Relos\Desktop\Nueva carpeta\Nueva carpeta\travelrock\travelrock\obj\Debug\travelrock.exe
+C:\Users\Cristian Relos\Desktop\Nueva carpeta\Nueva carpeta\travelrock\travelrock\obj\Debug\travelrock.pdb
+C:\Users\Cristian Relos\Desktop\Trabajo integrador AyP\Nueva carpeta\travelrock\travelrock\obj\Debug\travelrock.csprojResolveAssemblyReference.cache
+C:\Users\Cristian Relos\Desktop\Trabajo integrador AyP\Nueva carpeta\travelrock\travelrock\obj\Debug\travelrock.exe
+C:\Users\Cristian Relos\Desktop\Trabajo integrador AyP\Nueva carpeta\travelrock\travelrock\bin\Debug\travelrock.exe
+C:\Users\Cristian Relos\Desktop\Trabajo integrador AyP\Nueva carpeta\travelrock\travelrock\bin\Debug\travelrock.pdb
+C:\Users\Cristian Relos\Desktop\Trabajo integrador AyP\Nueva carpeta\travelrock\travelrock\obj\Debug\travelrock.pdb
+G:\BACK UP\carrera de ing.informatica\Algoritmos de Programacion\travelrock\travelrock\travelrock\obj\Debug\travelrock.exe
+G:\BACK UP\carrera de ing.informatica\Algoritmos de Programacion\travelrock\travelrock\travelrock\obj\Debug\travelrock.pdb
+G:\BACK UP\carrera de ing.informatica\Algoritmos de Programacion\travelrock\travelrock\travelrock\bin\Debug\travelrock.exe
+G:\BACK UP\carrera de ing.informatica\Algoritmos de Programacion\travelrock\travelrock\travelrock\bin\Debug\travelrock.pdb
+G:\BACK UP\carrera de ing.informatica\Algoritmos de Programacion\travelrock\travelrock\travelrock\obj\Debug\travelrock.csprojResolveAssemblyReference.cache

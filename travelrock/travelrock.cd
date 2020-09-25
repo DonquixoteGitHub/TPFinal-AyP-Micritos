@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ClassDiagram Zoom="1" MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="travelrock.Usuario" Collapsed="False">
+    <Position X="0.5" Y="2.8" Width="1.9" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="travelrock.Micritos" Collapsed="False">
+    <Position X="7.2" Y="0.5" Width="2.1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="travelrock.Program" Collapsed="False">
+    <Position X="7.3" Y="5.2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="travelrock.CaracterErroneoException" Collapsed="True">
+    <Position X="3.9" Y="10" Width="1.926652" />
+    <Compartments />
+  </Class>
+  <Class Name="travelrock.UsuarioExistenteException" Collapsed="True">
+    <Position X="3.2" Y="11.3" Width="1.949103" />
+    <Compartments />
+  </Class>
+  <Class Name="travelrock.UsuarioInexistenteException" Collapsed="True">
+    <Position X="3.8" Y="12.3" Width="2.035524" />
+    <Compartments />
+  </Class>
+  <Class Name="travelrock.TerminalExistenteException" Collapsed="True">
+    <Position X="3.9" Y="12.2" Width="2.002277" />
+    <Compartments />
+  </Class>
+  <Class Name="travelrock.OmnibusExistenteException" Collapsed="True">
+    <Position X="3.4" Y="12.9" Width="2.011999" />
+    <Compartments />
+  </Class>
+  <Class Name="travelrock.ChoferExistenteExeption" Collapsed="True">
+    <Position X="3" Y="12.4" Width="1.836901" />
+    <Compartments />
+  </Class>
+  <Class Name="travelrock.DatosExistentesException" Collapsed="True">
+    <Position X="3.6" Y="15.2" Width="1.90839" />
+    <Compartments />
+  </Class>
+  <Class Name="travelrock.DatosInexistentesException" Collapsed="True">
+    <Position X="3.7" Y="14.7" Width="1.994811" />
+    <Compartments />
+  </Class>
+  <Class Name="travelrock.Terminal" Collapsed="True">
+    <Position X="3.6" Y="14.1" Width="1.706042" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="True" />
+      <Compartment Name="Fields" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="travelrock.Omnibus" Collapsed="True">
+    <Position X="1.5" Y="12" Width="1.486335" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="True" />
+      <Compartment Name="Methods" Collapsed="True" />
+      <Compartment Name="Fields" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="travelrock.Persona" Collapsed="False">
+    <Position X="2.7" Y="0.5" Width="1.3" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+</ClassDiagram>
