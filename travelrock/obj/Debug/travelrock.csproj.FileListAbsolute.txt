@@ -23,3 +23,5 @@ G:\BACK UP\carrera de ing.informatica\Algoritmos de Programacion\travelrock\trav
 G:\BACK UP\carrera de ing.informatica\Algoritmos de Programacion\travelrock\travelrock\travelrock\bin\Debug\travelrock.exe
 G:\BACK UP\carrera de ing.informatica\Algoritmos de Programacion\travelrock\travelrock\travelrock\bin\Debug\travelrock.pdb
 G:\BACK UP\carrera de ing.informatica\Algoritmos de Programacion\travelrock\travelrock\travelrock\obj\Debug\travelrock.csprojResolveAssemblyReference.cache
+C:\Users\Cristian Relos\Documents\GitHub\TPFinal-AyP-Micritos\travelrock\obj\Debug\travelrock.exe
+C:\Users\Cristian Relos\Documents\GitHub\TPFinal-AyP-Micritos\travelrock\obj\Debug\travelrock.pdb
